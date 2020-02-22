@@ -1,6 +1,16 @@
 export default {
   top: [
     {
+      name: 'Resumen',
+      url: '/main',
+      icon: 'Home',
+    },
+    {
+      name: 'Contenidos',
+      url: '/assets',
+      icon: 'File',
+    },
+    {
       name: 'Home',
       url: '/home',
       icon: 'Home',
